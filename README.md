@@ -9,3 +9,7 @@ window functions, working toward a data pipeline project.
 Started my data engineering journey by revising core SQL concepts. 
 Practiced operators and filtering (simple and complex conditions), 
 completed 5 exercises plus a quiz. All queries saved in `revising_concepts_day1.sql`.
+
+### Day 2 — 21 September 2026
+Practiced SQL joins — INNER JOIN, Outer Join ,LEFT JOIN, Right Join and joining multiple tables along with handeling null operations. 
+Completed SQLBolt's join exercises 6-8 and saved all queries in `revising_concepts_day2.sql`.
