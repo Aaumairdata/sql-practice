@@ -13,3 +13,7 @@ completed 5 exercises plus a quiz. All queries saved in `revising_concepts_day1.
 ### Day 2 — 21 September 2026
 Practiced SQL joins — INNER JOIN, Outer Join ,LEFT JOIN, Right Join and joining multiple tables along with handeling null operations. 
 Completed SQLBolt's join exercises 6-8 and saved all queries in `revising_concepts_day2.sql`.
+
+### Day 3 — 23 September 2026
+Practiced aggregate functions (COUNT, SUM, AVG, MIN, MAX), GROUP BY, and the HAVING clause. Practiced combining aggregation with filtering and saved all queries in
+ `revising_concepts_day3.sql`.
