@@ -17,3 +17,7 @@ Completed SQLBolt's join exercises 6-8 and saved all queries in `revising_concep
 ### Day 3 — 23 September 2026
 Practiced aggregate functions (COUNT, SUM, AVG, MIN, MAX), GROUP BY, and the HAVING clause. Practiced combining aggregation with filtering and saved all queries in
  `revising_concepts_day3.sql`
+
+### Day 4 — 25 & 26 september 2026
+Practiced querrry structure execution along with inserting new rows in table ,updating tables for incorrect information and deleting unnecessary data from table using insert ,update and delete querries ,also understood the importance of where clause in update and delete querries .
+Completed SQLBolt's exercises 11-15 and saved all queries in `revising_concepts_day4.sql`.
